@@ -1,0 +1,5 @@
+{"timestamp":1595994,"category":"browser.usage","name":"interaction","extra":{"source":"nav-bar","glean_timestamp":"1743515150402","flow_id":"{91011587-2146-4caa-affd-300d7517c516}","widget_id":"urlbar-input"},"execution_counter":6}
+{"timestamp":1596976,"category":"browser.usage","name":"interaction","extra":{"widget_id":"urlbar-input","flow_id":"{91011587-2146-4caa-affd-300d7517c516}","source":"nav-bar","glean_timestamp":"1743515151384"},"execution_counter":6}
+{"timestamp":1597180,"category":"browser.usage","name":"interaction","extra":{"glean_timestamp":"1743515151589","flow_id":"{91011587-2146-4caa-affd-300d7517c516}","source":"nav-bar","widget_id":"urlbar-input"},"execution_counter":6}
+{"timestamp":1597501,"category":"browser.usage","name":"interaction","extra":{"flow_id":"{91011587-2146-4caa-affd-300d7517c516}","glean_timestamp":"1743515151910","source":"nav-bar","widget_id":"urlbar-input"},"execution_counter":6}
+{"timestamp":1601055,"category":"browser.usage","name":"interaction","extra":{"source":"keyboard","flow_id":"{91011587-2146-4caa-affd-300d7517c516}","widget_id":"key-close","glean_timestamp":"1743515155463"},"execution_counter":6}
